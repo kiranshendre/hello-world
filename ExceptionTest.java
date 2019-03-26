@@ -16,3 +16,6 @@ public class ExceptionTest{
 		System.out.println("Rest of the code");//added comment
 	}
 }
+
+
+/*Code modifief for testing CICD job*/
