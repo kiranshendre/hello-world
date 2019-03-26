@@ -11,7 +11,7 @@ public class ExceptionTest{
 			System.out.println(e);
 		}
 		finally{
-			System.out.println("Finally bloack executed");
+			System.out.println("Finally bloack executed");//just modifiefd for cicd test
 		}
 		System.out.println("Rest of the code");//added comment
 	}
