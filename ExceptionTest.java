@@ -13,6 +13,6 @@ public class ExceptionTest{
 		finally{
 			System.out.println("Finally bloack executed");
 		}
-		System.out.println("Rest of the code");
+		System.out.println("Rest of the code");//added comment
 	}
 }
